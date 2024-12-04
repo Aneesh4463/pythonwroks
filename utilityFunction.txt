@@ -1,0 +1,20 @@
+print("message") => print a message in console
+
+print("message",end="\n") => print a message in console  \n next line
+
+
+type(object) => return data type of object
+
+input("message") => read value from console 
+
+round(object,precision)             
+
+len("object") => return length of the object
+
+while loop =>  don't know the range (starting and ending) use while loop
+
+for loop =>     we know the range (starting and ending) use for loop  
+
+range(start,stop,step)   => return sequnce from start to end-1
+
+min(num1,num2) => return smallest number
